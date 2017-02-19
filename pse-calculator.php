@@ -1,6 +1,7 @@
 <?php 
-ini_set('dispalay_errors', 1);//Show errors on browser
+ini_set('display_errors', 1);//Show errors on browser
 error_reporting(E_ALL);//Display all possible problems
+
 
 //====================List of variables====================//
 
